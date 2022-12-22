@@ -11,7 +11,7 @@
             "id": "22a86b2eb5c1a6cf",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -138,6 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b30b4f1cae8f146",
+  "active": "22a86b2eb5c1a6cf",
   "lastOpenFiles": []
 }
