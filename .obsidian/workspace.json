@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Client Interview.md",
+                "file": "Interview suggestions.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Client Interview.md",
+                "file": "Interview suggestions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Client Interview.md",
+                "file": "Interview suggestions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Client Interview.md"
+                "file": "Interview suggestions.md"
               }
             }
           }
@@ -157,6 +157,7 @@
   },
   "active": "a07e6cab669ea94f",
   "lastOpenFiles": [
+    "Client Interview.md",
     "2022-12-27.md"
   ]
 }

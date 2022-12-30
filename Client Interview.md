@@ -1,5 +1,4 @@
-Intro:
-Hello, i am mohit kumar and i am working with cyntexa as associate software developer since 2019, for the first one year i worked on salesforce sales cloud, and after that i am working on salesforce b2c commerce cloud till now.
+Hello, I am mohit kumar and i am working with cyntexa as associate software developer since 2019, at the start of my career i worked on salesforce sales cloud later i swithched to salesforce b2c commerce cloud.
 During this time i have worked on some projects which are:
 1. Gaming equipment portal
 	* Client is a online gaming equipment seller in London.
@@ -10,7 +9,7 @@ During this time i have worked on some projects which are:
 	* Implementation helped them to integrate various social media platforms.
 2. Consumer electronic accessories portal
 	* Client is a consumer electronics accessories company that produces removable grips for smartphones.
-	* Business requirement was to improve look, feel and functional implentations along with a payment gateway integration.
+	* Business requirement was to improve look, feel and functional implimentations along with a payment gateway integration.
 	* Integrated payezzy payment gateway via API.
 	* Created a job which captures orders every 15 minutes.
 	* Setup custom promotion for cart page.
@@ -24,7 +23,7 @@ During this time i have worked on some projects which are:
 4. Headphone ecommerce platform
 	* Client is a online headphone selling website in USA.
 	* Business requirement of the project is to create website pages and update the shipment status and tracking number.
-	* Designed popup windows, menus, and footer based on figma designes provided by client using tailwind and custom css.
+	* Designed popup windows, menus, and footer based on figma designs provided by client using tailwind and custom css.
 	* Used ocapi to update the shipping status and tracking number custom attribute.
 	* A job was created to send shipment status email, which is triggred using ocapi.
 	* This implementation helped them to track their customer's product location.
@@ -33,7 +32,8 @@ During this time i have worked on some projects which are:
 	* Business requirement of client was to migrate from existing platform to SFCC.
 	* Designed category pages in BM.
 	* Implemented lazy loading.
+	* Newsletter subscribe and unsubscribe functionality.
 	* Designed landing pages with custom add to cart functionality with email intergration.
 	* Created a functionality to upload files and send email to customer support.
 	* Created a functionality to search article records.
-	* These implementations helped client to imporove the sales and target theri demographics.
+	* These implementations helped client to improove the sales and target their demographics.
