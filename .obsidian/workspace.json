@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "200da0571b58d62c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SFCC Code/Email attachment from impex.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview suggestions.md",
+                "file": "SFCC Code/Email attachment from impex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview suggestions.md",
+                "file": "SFCC Code/Email attachment from impex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview suggestions.md"
+                "file": "SFCC Code/Email attachment from impex.md"
               }
             }
           }
@@ -155,8 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a07e6cab669ea94f",
+  "active": "200da0571b58d62c",
   "lastOpenFiles": [
+    "Interview suggestions.md",
+    "Untitled.md",
     "Client Interview.md",
     "2022-12-27.md"
   ]
