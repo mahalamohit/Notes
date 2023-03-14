@@ -6,7 +6,7 @@
 
 
 # How to Earn Loyalty Points
-* create tier groups and create tier and tier criteria in the tier group
+* Create tier groups and create tier and tier criteria in the tier group
 * Create currency(points)
 	* Qualifying currency(Activity based model- tier points)
 	* Non qualifying currency(Fixed model- converted direrctly to traditional currency system)
@@ -15,4 +15,8 @@
 * Create voucher definitions
 * Create promotion to issue vouchers
 * Create campaign to send emails about promotion to the targeted audience
+* And point earning depends on how rules are configured in flows in salesforce org
+
+
+# Availing benefits
 * 

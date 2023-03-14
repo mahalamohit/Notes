@@ -7,3 +7,5 @@
 * keep only one space before and after the commit message
 * :wq
 * git push -f origin
+
+use git commit -m "" --no-verify if  error is coming(cli version)

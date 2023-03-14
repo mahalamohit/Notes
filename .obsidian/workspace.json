@@ -11,24 +11,15 @@
             "id": "22a86b2eb5c1a6cf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a07e6cab669ea94f",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/Rebase and squash.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "c91ad407135832a4",
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/Rebase and squash.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT/Rebase and squash.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/Rebase and squash.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -155,15 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a07e6cab669ea94f",
+  "active": "22a86b2eb5c1a6cf",
   "lastOpenFiles": [
-    "SFCC Code/Salesforce Loyalty Management.md",
-    "Interview suggestions.md",
-    "SFCC Code/Email attachment from impex.md",
-    "2022-12-27.md",
+    "Client Interview.md",
     "Untitled.md",
-    "Untitled 1.md",
+    "loyalty-cc-integration-design.png",
+    "Interview suggestions.md",
+    "SFCC Code/Salesforce Loyalty Management.md",
+    "SFCC Code/Email attachment from impex.md",
     "GIT/Rebase and squash.md",
-    "Client Interview.md"
+    "2022-12-27.md",
+    "Untitled 1.md"
   ]
 }
